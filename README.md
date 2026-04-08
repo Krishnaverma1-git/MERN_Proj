@@ -264,8 +264,7 @@ Open an [issue](https://github.com/Yash-Khandelwal2004/ParkIt/issues) with:
 
 ## 👤 Author
 
-**Yash Khandelwal**
-- GitHub: [@Yash-Khandelwal2004](https://github.com/Yash-Khandelwal2004)
-
----
+**Krishna Verma**
+- GitHub:(https://github.com/Krishnaverma1-git)
+-Mail-> krishnaverma3113@gmail.com
 
